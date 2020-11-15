@@ -1,6 +1,2 @@
-# Projet_AL_G3_2019
+# Projet_AL_G3_2020
 Groupe 3 : 
-- Birame Ba
-- Codé Kébé
-- Ahmadou Sagna
-- Mahamadou Zerbo
